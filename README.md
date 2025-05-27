@@ -134,11 +134,11 @@ ADS 层的结果数据通过脚本同步至 MySQL 数据库，供上层可视化
 
 - **下单金额分时统计折线图**
 
-  ![](docs/images/Hourly Order Amount.png)
+  ![](docs/images/OrderAmount.png)
 
 - **优惠分摊统计图**
 
-  ![](docs/images/Discount .png)
+  ![](docs/images/discount.png)
 
 - **菜品评价统计**
 
@@ -146,7 +146,7 @@ ADS 层的结果数据通过脚本同步至 MySQL 数据库，供上层可视化
 
 - **快餐业务系统离线可视化大屏**
 
-  ![](docs/images/FastFood BI.png)
+  ![](docs/images/FastFoodBI.png)
 
 ---
 
