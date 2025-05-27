@@ -1,0 +1,34 @@
+# 忽略IDE和编辑器临时文件
+*.log
+*.swp
+*.tmp
+*.bak
+.DS_Store
+.idea/
+.vscode/
+
+# Python或Java中的构建中间产物
+__pycache__/
+*.class
+*.jar
+*.war
+*.iml
+target/
+build/
+
+# Hadoop / Hive / Spark 常见缓存或临时文件
+.metastore_db/
+derby.log
+spark-warehouse/
+
+# DataX运行日志
+datax.log
+*.out
+
+# 系统缓存
+Thumbs.db
+
+# 压缩包和上传文件
+*.zip
+*.tar.gz
+*.rar
